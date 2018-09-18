@@ -7,7 +7,7 @@ has the format `<last name>_<first letter of the first name>`.
 ## Lab #1, Find the Password
 
 Proove that security by obscurity does not always work by finding passwords in the executables `1`, `2`, and `3` located
-at `iuca-infosec` of your home directory on the `auca.space` server.
+at `iuca-infosec` of your home directory on the `auca.space` server. Try analyzing the binary with the `strings` command and the `gdb` debugger. Try using the raibow tables to find the value of the hash in the last executable.
 
 ## Lab #2, Break the Cipher
 
