@@ -16,6 +16,8 @@ approach and write a decryption function in Python for any text that uses the sa
 
 Try using a Jupyter notebook. You can get one online for free at <https://notebooks.azure.com>.
 
+One possible solution can be found [here](https://notebooks.azure.com/toksaitov-gatech/libraries/iuca-infosec-lab02).
+
 ### Documentation for Helpfull Unix Tools
 
     man strings
