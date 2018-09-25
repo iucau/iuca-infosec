@@ -18,6 +18,11 @@ Try using a Jupyter notebook. You can get one online for free at <https://notebo
 
 One possible solution can be found [here](https://notebooks.azure.com/toksaitov-gatech/libraries/iuca-infosec-lab02).
 
+## Lab #3, Encryption Systems
+
+Create two Java applications, one that can encrypt any given text with a symmetric AES cipher, and another that can decrypt the
+given text. Allow the key to be bundled and transmited together with the encrypted data through untrusted channels.
+
 ### Documentation for Helpfull Unix Tools
 
     man strings
