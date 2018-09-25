@@ -23,6 +23,24 @@ One possible solution can be found [here](https://notebooks.azure.com/toksaitov-
 Create two Java applications, one that can encrypt any given text with a symmetric AES cipher, and another that can decrypt the
 given text. Allow the key to be bundled and transmited together with the encrypted data through untrusted channels.
 
+1. You can use the following guide to understand what classes you have to use and how <https://goo.gl/RhLm1b>
+
+The command-line interface should be the following
+
+    java Encryptor <file> <private key file>
+    # produces a file named <text file>.enc
+
+    java Decryptor <file>.enc <public key file>
+    # produces a file named <file>.dec
+
+2. Swap keys in the code.
+
+### How to Generate Key Pair
+
+    openssl genrsa -out key.pem 2048
+    openssl pkcs8 -topk8 -inform PEM -outform DER -in key.pem -out key -nocrypt
+    openssl rsa -in key.pem -pubout -outform DER -out key.pub
+
 ### Documentation for Helpfull Unix Tools
 
     man strings
