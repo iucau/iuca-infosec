@@ -50,7 +50,7 @@ The command-line interface should be the following
 You may find the following packages usefull
 
 * [Node.js](https://nodejs.org/en/download)
-* [MySQL Portable](https://drive.google.com/open?id=1F4hwoBiYcxL_uEPHP_8s2Gps53Q9FXzy)
+* [MySQL](https://dev.mysql.com/downloads/file/?id=478883)
 * [MySQL Portable Database Scripts](https://github.com/toksaitov/portable-mysql.git)
 
 2. Perform an analyzes and security audit of the software.
