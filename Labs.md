@@ -35,11 +35,25 @@ The command-line interface should be the following
 
 2. Swap keys in the code.
 
-### How to Generate Key Pair
+### How to Generate a Key Pair
 
     openssl genrsa -out key.pem 2048
     openssl pkcs8 -topk8 -inform PEM -outform DER -in key.pem -out key -nocrypt
     openssl rsa -in key.pem -pubout -outform DER -out key.pub
+
+## Lab #4, Authentication
+
+1. Deploy a simple web-application locally or remotely.
+
+* <https://github.com/toksaitov/blog>
+
+You may find the following packages usefull
+
+* [Node.js](https://nodejs.org/en/download)
+* [MySQL Portable](https://drive.google.com/open?id=1F4hwoBiYcxL_uEPHP_8s2Gps53Q9FXzy)
+* [MySQL Portable Database Scripts](https://github.com/toksaitov/portable-mysql.git)
+
+2. Perform an analyzes and security audit of the software.
 
 ### Documentation for Helpfull Unix Tools
 
