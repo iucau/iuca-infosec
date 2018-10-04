@@ -43,9 +43,13 @@ The command-line interface should be the following
 
 ## Lab #4, Authentication
 
-1. Deploy a simple web-application locally or remotely.
+1. Deploy a simple web-application locally or remotely from `iuca-infosec/blog` dir on `auca.space` server.
 
-* <https://github.com/toksaitov/blog>
+You can use the following `tcpdump` command to catch all the POST HTTP packets.
+
+```bash
+tcpdump -s 0 -A 'tcp dst port 80 and (tcp[((tcp[12:1] & 0xf0) >> 2):4] = 0x504f5354)'
+```
 
 You may find the following packages usefull
 
