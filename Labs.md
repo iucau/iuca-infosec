@@ -57,7 +57,13 @@ You may find the following packages usefull
 * [MySQL](https://dev.mysql.com/downloads/file/?id=478883)
 * [MySQL Portable Database Scripts](https://github.com/toksaitov/portable-mysql.git)
 
-2. Perform an analyzes and security audit of the software.
+2. Perform a security audit of the software.
+
+3. Make improvements to the software to secure it.
+
+* [Let's Encrypt Certificates](https://letsencrypt.org)
+* [Enabling HTTPS in Express](https://timonweb.com/posts/running-expressjs-server-over-https)
+* [bcrypt Hash Library for Node.js](https://www.npmjs.com/package/bcrypt)
 
 ### Documentation for Helpfull Unix Tools
 
