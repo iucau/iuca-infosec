@@ -65,6 +65,16 @@ You may find the following packages usefull
 * [Enabling HTTPS in Express](https://timonweb.com/posts/running-expressjs-server-over-https)
 * [bcrypt Hash Library for Node.js](https://www.npmjs.com/package/bcrypt)
 
+## Lab #5, Unix Access Control
+
+1. For a collaborative project, create and share a directory with another team member
+   on `iuca.space` in your home directory. Allow him to read and create new files.
+   
+2. Consider that your team got a new member. Use ACL to also allow him to work with the
+   project directory.
+
+* [ACL, Ubuntu](https://help.ubuntu.com/community/FilePermissionsACLs)
+
 ### Documentation for Helpfull Unix Tools
 
     man strings
