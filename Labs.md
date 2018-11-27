@@ -75,6 +75,12 @@ You may find the following packages usefull
 
 * [ACL, Ubuntu](https://help.ubuntu.com/community/FilePermissionsACLs)
 
+## Lab #6, Spyware
+
+Research what should an application do to track global key presses on Windows. Try to find the
+specific API calls and build a simple key tracking application in C# around them. In a virtualized
+environment analyze the behaviour of popular antivirus software packages to your program.
+
 ### Documentation for Helpfull Unix Tools
 
     man strings
