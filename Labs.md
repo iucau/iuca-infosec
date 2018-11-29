@@ -75,11 +75,28 @@ You may find the following packages usefull
 
 * [ACL, Ubuntu](https://help.ubuntu.com/community/FilePermissionsACLs)
 
-## Lab #6, Spyware
+## Lab #6, Spyware Analyses
 
 Research what should an application do to track global key presses on Windows. Try to find the
 specific API calls and build a simple key tracking application in C# around them. In a virtualized
 environment analyze the behaviour of popular antivirus software packages to your program.
+
+## Lab #6, RAT Analyses
+
+Select sources of one of the Remote-Access-Trojans in the malware source code, sample database
+<https://github.com/malwares>. In brief words, write a report in a markdown format about it.
+
+In your report try to answer the following questions.
+
+* What was the language used to create the RAT?
+* What Windows specific APIs were used to allow the RAT to function?
+* What Windows specific vulnarabilities were used to allow the RAT to function?
+* Were any other software APIs or vulnerabilities exploited by the tool?
+
+Outline the functionality of the RAT and the basic steps the tool was doing
+to abuse the system.
+
+Remember to use a virtualized environment to avoid harm to your machine.
 
 ### Documentation for Helpfull Unix Tools
 
