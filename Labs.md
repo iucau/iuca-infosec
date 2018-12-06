@@ -100,7 +100,8 @@ Remember to use a virtualized environment to avoid harm to your machine.
 
 ## Lab #8, Virus Analyses
 
-Do the same tasks from lab #7, but for any self-replicating virus.
+Do the same tasks from lab #7, but for any self-replicating virus. You can use the following databse for this task
+<https://github.com/ytisf/theZoo>.
 
 ### Documentation for Helpfull Unix Tools
 
