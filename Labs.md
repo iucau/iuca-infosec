@@ -81,7 +81,7 @@ Research what should an application do to track global key presses on Windows. T
 specific API calls and build a simple key tracking application in C# around them. In a virtualized
 environment analyze the behaviour of popular antivirus software packages to your program.
 
-## Lab #6, RAT Analyses
+## Lab #7, RAT Analyses
 
 Select sources of one of the Remote-Access-Trojans in the malware source code, sample database
 <https://github.com/malwares>. In brief words, write a report in a markdown format about it.
@@ -97,6 +97,10 @@ Outline the functionality of the RAT and the basic steps the tool was doing
 to abuse the system.
 
 Remember to use a virtualized environment to avoid harm to your machine.
+
+## Lab #8, Virus Analyses
+
+Do the same tasks from lab #7, but for any self-replicating virus.
 
 ### Documentation for Helpfull Unix Tools
 
