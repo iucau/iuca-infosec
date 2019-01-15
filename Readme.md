@@ -5,7 +5,7 @@
 General course information, time, room and lab numbers, rules, grading, and
 books
 
-* <https://github.com/iucau/iuca-infosec/blob/master/Syllabus/IUCA-INFOSEC_Fall_2018_Syllabus.pdf>
+* <https://github.com/iucau/iuca-infosec/blob/master/Syllabus/IUCA-INFOSEC_Spring_2019_Syllabus.pdf>
 
 ## Class Discussions
 
