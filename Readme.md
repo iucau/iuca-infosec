@@ -1,4 +1,4 @@
-# Information Security (IUCA-INFOSEC)
+# Information Security I, II (IUCA-INFOSEC)
 
 ## Syllabus
 
@@ -26,6 +26,12 @@ View previous class recordings
 
 * <https://www.youtube.com/playlist?list=PLIWindejDy9C7F0vDdt-1BmfLdQMmOL2D>
 
-## Final SignUp Form
+## Registration Form
 
-* <https://docs.google.com/spreadsheets/d/11cwlQS3jr6QkkijXZTAPLBELmTQRpCX2e_ToHVMheZc/edit?usp=sharing>
+### University
+
+* <https://docs.google.com/spreadsheets/d/14j7X4m_1jzuh4DEQV0wtR8AU-86MW2A2uoE-w1Urzhw/edit?usp=sharing>
+
+### College
+
+* <https://docs.google.com/spreadsheets/d/1SfF_Kv2vmbhbJnxoEXo5huzr5JJjjj97UDoLV0RabeQ/edit?usp=sharing>
