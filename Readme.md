@@ -18,7 +18,7 @@ participation grade
 
 View the screen of the instructor's machine
 
-* <https://hangouts.google.com/hangouts/_/ytl/Q-cL478G1DSgn9-_CXxNiv7mkyAyPeADERgiHBk7nY4=?hl=en_US&authuser=3>
+* <https://hangouts.google.com/hangouts/_/ytl/rEUcCbR9fS9MeU4w3eiuhi6liccEAYspSG4C_59dD5I=?hl=en_US&authuser=3>
 
 ## Recordings
 
@@ -31,7 +31,7 @@ View previous class recordings
 
 ### College
 
-* TBD
+* <https://www.youtube.com/playlist?list=PLHcEzCb_lW6f8ZjND1NOY9t93QBTSevxP>
 
 ## Registration Form
 
