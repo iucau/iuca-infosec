@@ -24,7 +24,14 @@ View the screen of the instructor's machine
 
 View previous class recordings
 
+### University
+
 * <https://www.youtube.com/playlist?list=PLIWindejDy9C7F0vDdt-1BmfLdQMmOL2D>
+* <https://www.youtube.com/playlist?list=PLHcEzCb_lW6fZZivHIvLN4cBLZikQD6xW>
+
+### College
+
+* TBD
 
 ## Registration Form
 
