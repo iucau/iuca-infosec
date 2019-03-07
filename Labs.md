@@ -48,7 +48,7 @@ openssl rsa -in key.pem -pubout -outform DER -out key.pub
 You can use the following `tcpdump` command to catch all the HTTP requests and write them to the `log.txt` file.
 
 ```bash
-tcpdump -A -s 0 'tcp port 8123 and (((ip[2:2] - ((ip[0]&0xf)<<2)) - ((tcp[12]&0xf0)>>2)) != 0)' > log.txt
+tcpdump -A -s 0 'tcp port PORT and (((ip[2:2] - ((ip[0]&0xf)<<2)) - ((tcp[12]&0xf0)>>2)) != 0)' > log.txt
 ```
 
 You may find the following packages usefull
