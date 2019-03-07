@@ -45,10 +45,10 @@ openssl rsa -in key.pem -pubout -outform DER -out key.pub
 
 1. Deploy a simple web-application locally or remotely from `iuca-infosec/blog` dir on `iuca.space` server.
 
-You can use the following `tcpdump` command to catch all the POST HTTP packets.
+You can use the following `tcpdump` command to catch all the HTTP requests and write them to the `log.txt` file.
 
 ```bash
-tcpdump -s 0 -A 'tcp dst port 80 and (tcp[((tcp[12:1] & 0xf0) >> 2):4] = 0x504f5354)'
+tcpdump -A -s 0 'tcp port 8123 and (((ip[2:2] - ((ip[0]&0xf)<<2)) - ((tcp[12]&0xf0)>>2)) != 0)' > log.txt
 ```
 
 You may find the following packages usefull
