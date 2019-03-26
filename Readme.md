@@ -42,3 +42,7 @@ View previous class recordings
 ### College
 
 * <https://docs.google.com/spreadsheets/d/1SfF_Kv2vmbhbJnxoEXo5huzr5JJjjj97UDoLV0RabeQ/edit?usp=sharing>
+
+## Midterm Sign Up Form
+
+* <https://docs.google.com/spreadsheets/d/10jHrwOdBtM5KFGc4_BvmVxQgZsMfrnHsyk-F2Wf4xRI/edit?usp=sharing>
