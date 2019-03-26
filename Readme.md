@@ -45,4 +45,11 @@ View previous class recordings
 
 ## Midterm Sign Up Form
 
+### University
+
 * <https://docs.google.com/spreadsheets/d/10jHrwOdBtM5KFGc4_BvmVxQgZsMfrnHsyk-F2Wf4xRI/edit?usp=sharing>
+
+### College
+
+* <https://docs.google.com/spreadsheets/d/1A9x3ghqHoL5xSYl-S_f7j48AQsxZbPUNuczyUbV26-g/edit?usp=sharing>
+
