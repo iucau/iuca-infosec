@@ -18,7 +18,7 @@ participation grade
 
 View the screen of the instructor's machine
 
-* <https://hangouts.google.com/hangouts/_/ytl/SrP8phXtf8PMuq6bLTmfo94dQ-l5MhoX6J7TW8c8C6A=?hl=en_US>
+* <https://hangouts.google.com/hangouts/_/ytl/e6Q91um1K-zoMsO53aCwoZhbWeK21JFj8VT4YvPOOZw=?hl=en_US>
 
 ## Recordings
 
