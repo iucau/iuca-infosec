@@ -78,7 +78,7 @@ You may find the following packages usefull
 ## Lab #6, Spyware Analyses
 
 1. Research what should an application do to track global key presses on Windows. Try to find the
-specific API calls and build a simple key tracking application in C# around them.
+specific API calls and build a simple key tracking application in C#, Java, or Python around them.
 
 2. In a virtualized environment analyze the behaviour of popular antivirus software packages to your program.
 
