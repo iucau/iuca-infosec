@@ -53,3 +53,6 @@ View previous class recordings
 
 * <https://docs.google.com/spreadsheets/d/1A9x3ghqHoL5xSYl-S_f7j48AQsxZbPUNuczyUbV26-g/edit?usp=sharing>
 
+## Final Project Sign Up Form
+
+* <https://docs.google.com/spreadsheets/d/1OMeyFgfOO9TK7507Q2hZJjGB92hw93eoyWnvMafTsi0/edit?usp=sharing>
