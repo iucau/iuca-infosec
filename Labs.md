@@ -82,7 +82,7 @@ specific API calls and build a simple key tracking application in C#, Java, or P
 
 2. In a virtualized environment analyze the behaviour of popular antivirus software packages to your program.
 
-## Lab #7, RAT Analyses
+## Lab #7 (Final Project), RAT Analyses
 
 Select sources of one of the Remote-Access-Trojans in the malware source code, sample database
 <https://github.com/malwares>. In brief words, write a report in a markdown format about it.
@@ -113,6 +113,12 @@ Write, compile and execute the sample programs from the course book (starting fr
 
 Prepare the [Metasploit](https://www.metasploit.com) environment based on [Kali Linux](https://www.kali.org/downloads/). Prepare a vulnerable system based on the [Metasploitable](https://metasploit.help.rapid7.com/docs/metasploitable-2) Linux image. Study on
 how to use these tools to perform pentesting by following [this](https://www.offensive-security.com/metasploit-unleashed) guide.
+
+## Lab 11 (Final Project), Operating System Hardening
+
+Study virtualization, containerisation, technologies. Utilize Docker and Vagrant to prepare a hardened images of operating system to
+deploy for a given web application. Utilize best practices from all the previous labs to ensure the system follows the CIA principles.
+Refer to the video lecture recording for specific instructions.
 
 ### Documentation for Helpfull Unix Tools
 
