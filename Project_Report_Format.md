@@ -56,3 +56,5 @@
 * How can one protect the system against this particular malware (describe multiple approaches)?
 
 * What general conclusions can we make after studying the malware?
+
+Outline the functionality of the malware and the basic steps the tool was doing to abuse the system.
