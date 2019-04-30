@@ -82,28 +82,18 @@ specific API calls and build a simple key tracking application in C#, Java, or P
 
 2. In a virtualized environment analyze the behaviour of popular antivirus software packages to your program.
 
-## Lab #7 (Final Project), RAT Analyses
+## Lab #7-8 (Final Project/Exam Report), Malware Analyses
 
-Select sources of one of the Remote-Access-Trojans in the malware source code, sample database
-<https://github.com/malwares>. In brief words, write a report in a markdown format about it.
-
-In your report try to answer the following questions.
-
-* What was the language used to create the RAT?
-* What Windows specific APIs were used to allow the RAT to function?
-* What Windows specific vulnarabilities were used to allow the RAT to function?
-* Were any other software APIs or vulnerabilities exploited by the tool?
-* How can one protect the system against this particular RAT (describe multiple approaches)?
-
-Outline the functionality of the RAT and the basic steps the tool was doing
-to abuse the system.
+Select sources of one malware product from the malware source code, sample database
+<https://github.com/malwares>, <https://github.com/ytisf/theZoo>. In brief words, write a report in a markdown format about it
+by using the following [template](https://github.com/iucau/iuca-infosec/blob/master/Project_Report_Format.md).
 
 Remember to use the virtualized environment to avoid harm to your machine.
 
-## Lab #8, Virus Analyses
+Send the report before the deadline to <toksaitov_d@iuca.kg>. The report MUST be in `.md` format. Points will
+be removed if the rule is not followed.
 
-Do the same tasks from lab #7, but for any self-replicating virus. You can use the following database for this task
-<https://github.com/ytisf/theZoo>.
+Do not cheat! We use specialized software to detect cheating.
 
 ## Lab #9, Buffer Overflow
 
