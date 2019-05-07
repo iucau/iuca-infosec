@@ -47,7 +47,7 @@ View previous class recordings
 
 ### University
 
-* <https://docs.google.com/spreadsheets/d/10jHrwOdBtM5KFGc4_BvmVxQgZsMfrnHsyk-F2Wf4xRI/edit?usp=sharing>
+* <https://docs.google.com/spreadsheets/d/1-1MP3fVfSSiWMiCrgcBSP1M9h90iGadWAp2S9d0LAGc/edit?usp=sharing>
 
 ### College
 
